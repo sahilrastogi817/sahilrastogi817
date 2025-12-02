@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.bing.com/images/search?view=detailV2&ccid=r3A31pg1&id=718B266F369FBE9F9D36494E9441A45F8C768441&thid=OIP.r3A31pg1cea5W869GCWrHQHaE7&mediaurl=https%3a%2f%2fimg.freepik.com%2fpremium-vector%2fdata-analysis-vector-colorful-modern-banner_104589-1708.jpg&exph=417&expw=626&q=data+analyst+banner+for+git&FORM=IRPRST&ck=2FEF4C9024DBFA57107302E68D325185&selectedIndex=7&itb=0))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sahil Rastogi</h1>
 <h3 align="center">A passionat Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
