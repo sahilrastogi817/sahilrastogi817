@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" hight = "2000" width="4000" src="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/DATAANALYTICSfinal-1686237252944.png?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces">
+<img align="center" alt="Coding" hight = "1000" width="4000" src="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/DATAANALYTICSfinal-1686237252944.png?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces">
 
 <h1 align="center">Hi 👋, I'm Sahil Rastogi</h1>
 <h3 align="center">A passionat Data Analyst from India</h3>
