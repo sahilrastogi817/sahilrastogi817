@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="[https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif](https://www.bing.com/images/search?view=detailV2&ccid=9CRQWrfo&id=80457F8EE1E1F2E04EBEFE80231B9846375DE2A4&thid=OIP.9CRQWrfota8hvLgEPoYgYgHaEH&mediaurl=https%3a%2f%2fthumbs.dreamstime.com%2fz%2fdata-analysis-business-marketing-analytics-concept-big-data-internet-marketing-flat-design-vector-line-illustration-data-114218337.jpg&exph=890&expw=1600&q=data+analyst+banner+gif&FORM=IRPRST&ck=C2B1B9BDB4C6B977D868C226636A605D&selectedIndex=29&itb=0)">
+<img align="center" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=9CRQWrfo&id=80457F8EE1E1F2E04EBEFE80231B9846375DE2A4&thid=OIP.9CRQWrfota8hvLgEPoYgYgHaEH&mediaurl=https%3a%2f%2fthumbs.dreamstime.com%2fz%2fdata-analysis-business-marketing-analytics-concept-big-data-internet-marketing-flat-design-vector-line-illustration-data-114218337.jpg&exph=890&expw=1600&q=data+analyst+banner+gif&FORM=IRPRST&ck=C2B1B9BDB4C6B977D868C226636A605D&selectedIndex=29&itb=0">
 
 <h1 align="center">Hi 👋, I'm Sahil Rastogi</h1>
 <h3 align="center">A passionat Data Analyst from India</h3>
