@@ -3,7 +3,6 @@
 <h3 align="center">A passionat Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilrastogi817" alt="sahilrastogi817" /></a> </p>
 
 - 🔭 I’m currently working in **Globallogic Pvt. Ltd.**
 
